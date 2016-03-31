@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+"""
+    查询域名A记录等
+"""
 # coding=utf-8
 __author__ = 'root'
 

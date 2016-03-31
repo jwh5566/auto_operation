@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+"""
+    输入一个ip或网段，打印相关信息
+"""
 # coding=utf-8
 __author__ = 'root'
 
