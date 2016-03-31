@@ -7,4 +7,5 @@ chapter3 定制业务质量报表
 
 chapter4 Python与系统安全
 
+第三章的html格式邮件
 ![smtplib_html](https://github.com/jwh5566/auto_operation/blob/master/smtplib_html.jpg)
