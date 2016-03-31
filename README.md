@@ -14,3 +14,7 @@ chapter4 Python与系统安全
 更新
 第二章的带图片html格式邮件
 ![smtplib_html2](https://github.com/jwh5566/auto_operation/blob/master/smtplib_html2.jpg)
+
+更新
+第二章带附件的html格式邮件
+![smtplib_html3](https://github.com/jwh5566/auto_operation/blob/master/smtplib_html3.jpg)
