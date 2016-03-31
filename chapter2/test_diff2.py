@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-    diff two files
+    比较2个文件
 """
 # coding=utf-8
 __author__ = 'root'

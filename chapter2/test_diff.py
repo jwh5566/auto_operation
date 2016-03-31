@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+"""
+    比较2个字符串
+"""
 # coding=utf-8
 __author__ = 'root'
 
